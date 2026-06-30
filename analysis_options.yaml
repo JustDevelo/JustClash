@@ -1,0 +1,7 @@
+# Strict static analysis for production-ready builds.
+# Standard Flutter linting baseline used by Clash/Mihomo Flutter clients.
+include: package:flutter_lints/flutter.yaml
+
+analyzer:
+  errors:
+    todo: ignore
