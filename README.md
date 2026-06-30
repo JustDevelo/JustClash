@@ -1,25 +1,25 @@
 <div align="center">
 
-<img src="docs/icon.png" width="120" alt="JustClash" />
+<img src="docs/icon.png" width="120" alt="JustClash logo" />
 
 # JustClash
 
-**Лёгкий VLESS / прокси-клиент для Windows, оптимизированный под слабые ПК.**
+**Lightweight VLESS / proxy client for Windows, optimized for low-end PCs.**
 
 [English](README.md) · [Русский](README.ru.md) · [中文](README.zh.md)
 
 [![Release](https://img.shields.io/github/v/release/JustDevelo/JustClash?style=flat-square)](https://github.com/JustDevelo/JustClash/releases)
 [![Downloads](https://img.shields.io/github/downloads/JustDevelo/JustClash/total?style=flat-square&logo=github)](https://github.com/JustDevelo/JustClash/releases)
 [![License](https://img.shields.io/github/license/JustDevelo/JustClash?style=flat-square)](LICENSE)
-[![Telegram](https://img.shields.io/badge/Telegram-Канал-blue?style=flat-square&logo=telegram)](https://t.me/justdevelo)
+[![Telegram](https://img.shields.io/badge/Telegram-Channel-blue?style=flat-square&logo=telegram)](https://t.me/justdevelo)
 
 </div>
 
-# О проекте
+# Overview
 
-JustClash — простой, быстрый и без рекламы прокси-клиент для Windows. Работает на ядре **Mihomo (Clash.Meta)**, которое встроено в приложение.
+JustClash is a simple, fast and ad-free proxy client for Windows. It runs on the **Mihomo (Clash.Meta)** core, bundled inside the app.
 
-# Скриншоты
+# Screenshots
 
 <p align="center">
   <img src="docs/photo_2026-06-30_19-54-37.jpg" width="32%" />
@@ -28,29 +28,29 @@ JustClash — простой, быстрый и без рекламы прокс
   <img src="docs/photo_2026-06-30_19-54-59.jpg" width="32%" />
 </p>
 
-# Возможности
+# Features
 
-- **Системный TUN-режим** — защищает трафик всей системы
-- **Импорт по ссылке-подписке в один клик** (VLESS и другие протоколы, Clash- и raw-конфиги)
-- **Автообновление подписок** — при запуске и в фоне
-- **Выбор серверов и локаций**, группы прокси, замер задержки, флаги стран
-- **Режимы «Правила» и «Прямое подключение»**
-- **Встроенные гео-базы** с автообновлением
-- **Темы**: светлая / тёмная / AMOLED-чёрная + выбор акцентного цвета
-- **Язык**: русский, английский, китайский
-- **Системный трей**, автозапуск с Windows, запуск в одном экземпляре
-- **Низкое потребление ресурсов** — комфортно даже на слабых ПК
+- **System-wide TUN mode** — protects the whole system's traffic
+- **One-click subscription import** (VLESS and other protocols, Clash and raw configs)
+- **Automatic subscription updates** — on launch and in the background
+- **Server / location selector**, proxy groups, latency test, country flags
+- **Rule mode and Direct mode**
+- **Bundled geo databases** with auto-update
+- **Themes**: light / dark / pure black (AMOLED) + accent color
+- **Languages**: Russian, English, Chinese
+- **System tray**, launch at startup, single instance
+- **Low resource usage** — comfortable even on low-end PCs
 
-# Установка
+# Installation
 
-1. Скачай последний `JustClash-Setup-x.x.x.exe` со страницы [Releases](https://github.com/JustDevelo/JustClash/releases).
-2. Запусти и пройди мастер установки.
+1. Download the latest `JustClash-Setup-x.x.x.exe` from the [Releases](https://github.com/JustDevelo/JustClash/releases) page.
+2. Run it and follow the setup wizard.
 
-# Технологии
+# Built with
 
-- Интерфейс: Flutter (Dart)
-- Ядро: [Mihomo (Clash.Meta)](https://github.com/MetaCubeX/mihomo)
+- UI: Flutter (Dart)
+- Core: [Mihomo (Clash.Meta)](https://github.com/MetaCubeX/mihomo)
 
-# Лицензия
+# License
 
-См. файл [LICENSE](LICENSE).
+See [LICENSE](LICENSE).
