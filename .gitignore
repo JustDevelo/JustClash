@@ -47,3 +47,5 @@ app.*.map.json
 
 # Setup Installer
 installer_output/
+installer.iss
+ChineseSimplified.isl
