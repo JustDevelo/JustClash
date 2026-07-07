@@ -4,7 +4,7 @@
 
 # JustClash
 
-**轻量级 Windows 与 Android VLESS / 代理客户端，专为低配置设备优化。**
+**轻量级 Windows 与 Android VPN 客户端，专为低配置设备优化。**
 
 [English](README.md) · [Русский](README.ru.md) · [中文](README.zh.md)
 
@@ -16,7 +16,7 @@
 
 # 简介
 
-JustClash 是一款简洁、快速的 Windows 与 Android 代理客户端。基于 **Mihomo (Clash.Meta)** 内核，内核已内置于应用中。
+JustClash 是一款简洁、快速的 Windows 与 Android VPN 客户端。基于 **Mihomo (Clash.Meta)** 内核，内核已内置于应用中。
 
 # 功能
 
@@ -33,11 +33,11 @@ JustClash 是一款简洁、快速的 Windows 与 Android 代理客户端。基�
 
 ## 我该选哪个架构？
 
-- **arm64-v8a** — 几乎所有现代手机（大约 2018 年之后的机型）。不确定就选 universal。
+- **arm64-v8a** — 几乎所有现代手机。不确定就选 *universal*
 - **armeabi-v7a** — 老旧或非常低端的设备。
 - **x86_64** — PC 上的 Android 模拟器、部分平板电脑和 Chromebook。
 
-# 技术栈
+## 技术栈
 
 - 界面：Flutter (Dart)
 - 内核：Mihomo (Clash.Meta，*Android 版内核借鉴自 CMFA — https://github.com/MetaCubeX/ClashMetaForAndroid*)
