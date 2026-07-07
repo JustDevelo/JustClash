@@ -18,15 +18,6 @@
 
 JustClash is a simple, fast proxy client for Windows and Android. It runs on the **Mihomo (Clash.Meta)** core, bundled inside the app.
 
-# Screenshots
-
-<p align="center">
-  <img src="docs/photo_2026-06-30_19-54-37.jpg" width="32%" />
-  <img src="docs/photo_2026-06-30_19-54-52.jpg" width="32%" />
-  <img src="docs/photo_2026-06-30_19-54-56.jpg" width="32%" />
-  <img src="docs/photo_2026-06-30_19-54-59.jpg" width="32%" />
-</p>
-
 # Features
 
 - **System-wide traffic protection** — TUN mode on Windows, `VpnService` on Android
