@@ -6,11 +6,11 @@
 
 **Lightweight VLESS / proxy client for Windows & Android, optimized for low-end devices.**
 
-English · Русский · 中文
+[English](README.md) · [Русский](README.ru.md) · [中文](README.zh.md)
 
-![Release](https://github.com/JustDevelo/JustClash/releases)
-![Downloads](https://github.com/JustDevelo/JustClash/releases)
-![Telegram](https://t.me/justdevelo)
+[![Release](https://img.shields.io/github/v/release/JustDevelo/JustClash?style=flat-square)](https://github.com/JustDevelo/JustClash/releases)
+[![Downloads](https://img.shields.io/github/downloads/JustDevelo/JustClash/total?style=flat-square&logo=github)](https://github.com/JustDevelo/JustClash/releases)
+[![Telegram](https://img.shields.io/badge/Telegram-Канал-blue?style=flat-square&logo=telegram)](https://t.me/justdevelo)
 
 </div>
 
@@ -39,24 +39,6 @@ JustClash is a simple, fast proxy client for Windows and Android. It runs on the
 - **Languages**: Russian, English, Chinese
 - **System tray & autostart** (Windows), single instance
 - **Low resource usage** — quiet core, idle UI; comfortable on low-end PCs and phones
-
-# Download
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Kunzisoft/Github-badge/main/get-it-on-github.png" alt="Get it on GitHub" height="70">
-
-</div>
-
-Pick the build for your device. Android APKs are split per architecture — if you're not sure, grab **universal** (works on any device, just a bit larger).
-
-| OS | Downloads |
-| :---: | :--- |
-| **Android** | ![universal](https://github.com/JustDevelo/JustClash/releases/latest/download/JustClash-android-universal.apk) ![arm64-v8a](https://github.com/JustDevelo/JustClash/releases/latest/download/JustClash-android-arm64-v8a.apk) ![armeabi-v7a](https://github.com/JustDevelo/JustClash/releases/latest/download/JustClash-android-armeabi-v7a.apk) ![x86_64](https://github.com/JustDevelo/JustClash/releases/latest/download/JustClash-android-x86_64.apk) |
-| **Windows** | ![Setup amd64](https://github.com/JustDevelo/JustClash/releases/latest/download/JustClash-windows-amd64-setup.exe) ![Portable amd64](https://github.com/JustDevelo/JustClash/releases/latest/download/JustClash-windows-amd64.zip) |
-
-> **Android** — on first connect allow the VPN permission (and "install from unknown sources" if prompted). Also, if your device has battery activity control, it's best to set it to *Unrestricted*.
-> **Windows** — *Setup* installs the app; *Portable* runs from any folder without installation.
 
 ## Which architecture do I need?
 
