@@ -11,7 +11,15 @@
 .svn/
 .swiftpm/
 migrate_working_dir/
-
+assets/
+docs/
+lib/
+test/
+windows/
+analysis_options.yaml/
+pubspec.lock/
+pubspec.yaml/
+.metadata/
 
 # IntelliJ related
 *.iml
