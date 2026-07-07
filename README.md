@@ -4,7 +4,7 @@
 
 # JustClash
 
-**Lightweight VLESS / proxy client for Windows & Android, optimized for low-end devices.**
+**Lightweight VPN client for Windows & Android, optimized for low-end devices.**
 
 [English](README.md) · [Русский](README.ru.md) · [中文](README.zh.md)
 
@@ -16,7 +16,7 @@
 
 # Overview
 
-JustClash is a simple, fast proxy client for Windows and Android. It runs on the **Mihomo (Clash.Meta)** core, bundled inside the app.
+JustClash is a simple, fast VPN client for Windows and Android. It runs on the **Mihomo (Clash.Meta)** core, bundled inside the app.
 
 # Features
 
@@ -33,11 +33,11 @@ JustClash is a simple, fast proxy client for Windows and Android. It runs on the
 
 ## Which architecture do I need?
 
-- **arm64-v8a** — almost all modern phones (roughly since 2018). Not sure — go with universal.
+- **arm64-v8a** — almost all modern phones. Not sure — *universal*
 - **armeabi-v7a** — old and very budget devices.
 - **x86_64** — Android emulators on PC, some tablets, and Chromebooks.
 
-# Built with
+## Built with
 
 - UI: Flutter (Dart)
 - Core: Mihomo (Clash.Meta, *the Android core is borrowed from CMFA — https://github.com/MetaCubeX/ClashMetaForAndroid*)
